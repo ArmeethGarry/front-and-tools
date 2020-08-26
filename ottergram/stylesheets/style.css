@@ -1,10 +1,19 @@
 body {
     font-size: 10px;
-    background: rgb(149, 194, 215);
+    background: rgb(189, 224, 241);
 }
 
 a {
     text-decoration: none;
+}
+
+.logo-text {
+    background: white;
+
+    font-size: 37px;
+    font-family: 'Abril Fatface', cursive;
+    text-transform: uppercase;
+    text-align: center;
 }
 
 .thumbnail-item + .thumbnail-item {
@@ -19,6 +28,7 @@ a {
 
 .thumbnail-list {
     list-style: none;
+    padding: 0;
 }
 
 .thumbnail-image {
@@ -31,6 +41,6 @@ a {
     margin: 0;
     padding: 4px 10px;
 
-    background: rgb(96, 125, 139);
-    color: rgb(202, 238, 255);
+    background: rgb(45, 61, 68);
+    color: rgb(184, 239, 243);
 }
