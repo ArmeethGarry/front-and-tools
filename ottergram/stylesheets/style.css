@@ -44,3 +44,7 @@ a {
     background: rgb(45, 61, 68);
     color: rgb(184, 239, 243);
 }
+
+.container {
+    width: 90%;
+}
